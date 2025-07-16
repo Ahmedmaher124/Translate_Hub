@@ -1,17 +1,38 @@
 # graduation_app
 
-A new Flutter project.
+# TranslateHub 🌍📱
 
-## Getting Started
+TranslateHub is a mobile application that connects **tourists with translators** to help overcome language barriers and enhance travel experiences. The app also allows **companies to post translation jobs**, giving translators more opportunities to find work.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 **Authentication System**  
+  Secure login and registration for translators, tourists, and companies.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Graduation_Project
+- 👤 **Translator Profiles**  
+  Translators can sign up, build a profile, and showcase their skills.
+
+- 💼 **Company Job Posting**  
+  Companies can create accounts and post translation-related job opportunities.
+
+- 💬 **Real-Time Chat**  
+  In-app messaging between tourists and translators for instant communication.
+
+- 📡 **API Integration**  
+  All data is fetched and posted via a RESTful backend API.
+
+---
+
+## 📱 Tech Stack
+
+- **Frontend**: Flutter
+- **Backend**: REST API (external)
+- **State Management**: [Bloc]
+- **Authentication**: [JWT / Firebase Auth]
+- **Chat**: [ Firestore ]
+- **Database**: (Handled in backend)
+
+
+
